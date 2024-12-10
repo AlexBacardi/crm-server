@@ -1,0 +1,22 @@
+{
+    "requests": [
+        {
+            "id": 1,
+            "name": "Кирилл Платонов",
+            "email": "Kiril@mail.ru",
+            "phone": "+792342367678",
+            "product": {
+                "en": "course-vue",
+                "ru": "Курс по VUE JS"
+            },
+            "status": {
+                "en": "new",
+                "ru": "Новая"
+            },
+            "date": [
+                "15.11.2024",
+                " 09:16:30"
+            ]
+        }
+    ]
+}
